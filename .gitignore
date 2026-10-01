@@ -1,0 +1,3 @@
+flan_t5_movie_model/
+__pycache__/
+*.pyc
