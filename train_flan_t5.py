@@ -16,7 +16,7 @@ from transformers import (
 
 MODEL_NAME = "google/flan-t5-small"
 TRAINING_FILE = "flan_t5_training_data.csv"
-OUTPUT_DIR = "./flan_t5_movie_model"
+OUTPUT_DIR = "./flan_t5_movie_model_600_diverse"
 
 print("=" * 60)
 print("SBA 928 - FLAN-T5 Fine-Tuning Experiment")
