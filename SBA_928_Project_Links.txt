@@ -1,0 +1,8 @@
+SBA 928 - Project Links
+Student: Irving Isdith
+
+GitHub Repository:
+https://github.com/irvingisdith-Gritty/SBA_928_Irving_Isdith
+
+Final Trained Model Weights:
+https://drive.google.com/file/d/1DsO_alPeM4y_j77e95Qi8wYphAPimS9K/view?usp=sharing
